@@ -89,7 +89,7 @@ ZIC = {
 	pattern = "pattern_solid.tga"
 	
 	textured_emblem = {
-		texture = "cote_d'ivoire.png"
+		texture = "cote_d'Ivoire.png"
 		instance = { scale = { 1 1 } position = { 0.5 0.5 } }
 	}
 }
