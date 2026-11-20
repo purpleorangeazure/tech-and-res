@@ -1096,7 +1096,7 @@ pm_nuclear_third_generation = {
 }
 
 pm_automation_HFO_fuel = {
-	texture = "gfx/interface/icons/production_method_icons/pm_automation_HFO_fuel.dds"
+	texture = "gfx/interface/icons/production_method_icons/pm_automation_hfo_fuel.dds"
 	
 	unlocking_technologies = {
 		vacuum_distillation
